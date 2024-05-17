@@ -31,4 +31,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhanttomar2003&" alt="siddhanttomar2003" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=siddhanttomar2003&theme=radical)](https://git.io/streak-stats)
