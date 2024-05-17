@@ -1,4 +1,4 @@
-![Profile Software Engineer LinkedIn Banner 3 - Made with PosterMyWall](https://github.com/siddhanttomar2003/siddhanttomar2003/assets/141900451/52bfeed1-dbc5-4db7-8a25-e21235800b30)
+![Profile Software Engineer LinkedIn Banner 3 - Made with PosterMyWall (1)](https://github.com/siddhanttomar2003/siddhanttomar2003/assets/141900451/26b9ef9c-47f9-479a-877e-152c27ec7b95)
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
