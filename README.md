@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhanttomar2003&show_icons=true&locale=en&layout=compact" alt="siddhanttomar2003" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhanttomar2003&show_icons=true&locale=en" alt="siddhanttomar2003" /></p>
+[![Siddhant Tomar's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhanttomar2003)](https://github.com/siddhanttomar2003/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhanttomar2003&" alt="siddhanttomar2003" /></p>
