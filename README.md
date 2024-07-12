@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently pursuing Btech(from I.T. , NIT Raipur) and I'm in 2nd year 
+- 🔭 I’m currently pursuing Btech(from I.T. , NIT Raipur) and I'm in 3rd year 
 
 - 🌱 I’m currently learning Backend Development
 
